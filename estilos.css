@@ -702,6 +702,10 @@ footer {
     display: none;
 }
 
+.cc{
+    display: none;
+}
+
 @media screen and (max-width: 480px) {
     header {
         display: none;
